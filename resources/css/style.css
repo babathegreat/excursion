@@ -1,0 +1,21 @@
+html {
+    font-family: Verdana, sans-serif; 
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.discover {
+    margin-top: 0.75rem;
+}
+
+.discover a {
+    color: aquamarine;
+    font-size: 0.32rem;
+    text-decoration: underline;
+}
+
